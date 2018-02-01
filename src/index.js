@@ -1,12 +1,14 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-import App from './App'
-
+//import App from './App'
+import CountryApp from './CountryApp'
 
 ReactDOM.render(
-  <App />,
+  //<App />,
+  <CountryApp />,
   document.getElementById('root')
 )
+
 
 /*
 //Materiaalista
