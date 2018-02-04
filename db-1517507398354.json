@@ -10,7 +10,7 @@
       "id": 2,
       "content": "Selain pystyy suorittamaan vain javascriptiä",
       "date": "2017-12-10T18:39:34.091Z",
-      "important": true
+      "important": false
     },
     {
       "id": 3,
@@ -47,67 +47,28 @@
       "date": "2018-02-01T17:49:52.561Z",
       "important": false,
       "id": 8
-    },
-    {
-      "content": "efe",
-      "date": "2018-02-03T00:15:59.412Z",
-      "important": false,
-      "id": 9
-    },
-    {
-      "content": "asfasfasf",
-      "date": "2018-02-03T00:16:01.471Z",
-      "important": true,
-      "id": 10
-    },
-    {
-      "content": "ggdgefgefc",
-      "date": "2018-02-03T00:16:04.257Z",
-      "important": true,
-      "id": 11
-    },
-    {
-      "content": "afaca",
-      "date": "2018-02-03T00:16:06.646Z",
-      "important": true,
-      "id": 12
     }
   ],
   "persons": [
     {
+      "name": "Arto Hellas",
+      "number": "040-123456",
+      "id": 1
+    },
+    {
+      "name": "Martti Tienari",
+      "number": "040-123456",
+      "id": 2
+    },
+    {
+      "name": "Arto Järvinen",
+      "number": "040-123456",
+      "id": 3
+    },
+    {
       "name": "Lea Kutvonen",
       "number": "040-123456",
       "id": 4
-    },
-    {
-      "name": "awfawf",
-      "id": 2,
-      "number": "asfasfas"
-    },
-    {
-      "name": "sgsg",
-      "id": 3,
-      "number": "wtsrgdfv"
-    },
-    {
-      "name": "eewdwed",
-      "number": "edqwqsxqsx",
-      "id": 5
-    },
-    {
-      "name": "aefeaf",
-      "number": "efsfsd",
-      "id": 7
-    },
-    {
-      "name": "adawdawd",
-      "number": "fasfsa",
-      "id": 8
-    },
-    {
-      "name": "ewf",
-      "number": "ythdfgdfgd",
-      "id": 6
     }
   ]
 }

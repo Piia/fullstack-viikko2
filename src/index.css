@@ -1,5 +1,20 @@
 body {
-  margin: 0;
-  padding: 0;
-  font-family: sans-serif;
+  margin: 10;
+  padding: 10;
+  font-family: "Times New Roman", Times, serif;;
+}
+
+.notification {
+  color: black;
+  background: green;
+  font-size: 20px;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+h1 {
+  color: green;
+  font-style: italic;
 }
